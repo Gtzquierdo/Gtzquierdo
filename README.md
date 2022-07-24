@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gtzquierdo aka Giancarlo Tzquierdo
 - 👀 I’m interested in software development and finding solutions to problems.
-- 🌱 I’m currently learning C# and refreshing my Full Stack JavaScrip skills.
+- 🌱 I’m currently learning C# and refreshing my Full Stack JavaScript skills.
 - 💞️ I’m looking to collaborate on a variety types of projects that I can assist with my skills and also learn while working.
 - 📫 How to reach me via email gtzquierdo@gmail.com. 
 
